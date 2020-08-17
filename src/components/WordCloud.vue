@@ -273,6 +273,7 @@ export default {
   position: absolute;
   top: 0;
   left: 0;
+  touch-action: auto;
 }
 div.tooltip {
     position: absolute;
